@@ -33,9 +33,7 @@ unchanged from FinalRelease.1.
 
 FinalRelease.3 (LATCHI BOOT MENU edition) rebrands the visible boot-screen
 identity to "LATCHI BOOT MENU" per client request: the background wordmark
-and branding plate are re-rendered from repository-owned geometry, the
-android slot becomes an Android TV emblem (robot head on a TV set, original
-vector geometry), the linux slot becomes a Chromium-style segmented-ring
+and branding plate are re-rendered from repository-owned geometry, the android.png and bliss.png slots (auto-plan and manual-confirmation paths both map Android-family entries to bliss.png) become identical Android TV emblems (robot head on a TV set, original vector geometry), the linux slot becomes a Chromium-style segmented-ring
 emblem for the client's FydeOS installation (original geometry, no
 third-party logo), and icon/selector glows were intensified. The background
 base including the RGB edge lighting and the client-approved mascot
