@@ -17,7 +17,7 @@
   "timeoutSeconds": 10,
   "explicitMenuEntriesOnly": true,
   "stateAwareManagementActions": true,
-  "themeRevision": "FinalRelease.1",
+  "themeRevision": "FinalRelease.2",
   "ownedInstallationUpgrade": "VerifiedOwnedFinalPolish2ToFinalRelease1",
   "staleThemeTestBootDenied": true,
   "themeUpgradeManagementAction": "VisibleWithExplicitReadyOrBlockingReason",

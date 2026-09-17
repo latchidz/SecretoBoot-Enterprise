@@ -20,3 +20,14 @@ composited locally from original vector/HTML source.
 Development sources are retained under v9/theme-src/SecretoBootV9.
 The upstream notices in this directory apply to bundled rEFInd, not to the
 original SecretoBoot artwork described above.
+
+FinalRelease.2 (Obsidian Nova refresh) replaces the background, branding,
+selectors, OS icons, and function icons with new original artwork: all icons,
+selectors, and branding were drawn programmatically from original vector
+geometry (supersampled Python/Pillow builds), and the abstract background base
+was generated with an AI image tool from an original prompt, then
+post-processed by repository-owned code (darkening, vignette, and a baked
+wordmark/subtitle rendered from repository geometry). No third-party icon
+pack is introduced; filenames, dimensions, and the deployment layout are
+unchanged from FinalRelease.1.
+
