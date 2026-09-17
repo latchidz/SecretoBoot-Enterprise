@@ -53,7 +53,7 @@
     "discovery/runtime/src/Providers/WindowsLevel1/SecretoBoot.WindowsLevel1.Parsers.psm1": "73c07afe57aec387496fcf535c03eaf08f2d3ba183333dfd6aade81a7446a6ad",
     "discovery/runtime/src/Providers/WindowsLevel1/SecretoBoot.WindowsLevel1.Privacy.psm1": "a22a757901547787ef0e5a28cc93b2d5e2b8dde16fa690315659c32c6c6428b7",
     "package-metadata.json": "6c8e0f4e386a8fded2687b63054d06db6695972660c5db5b7682e7e001ac34cd",
-    "refind-assets.json": "c5e8056ea2fc20b2495750201fed761c92490d3c30b34dc184b72ddea943a46f",
+    "refind-assets.json": "c9f4bb8c3289db7bead240559fdb375f4ae62cae510c7dfcf468b28c75e56f2b",
     "resources/refind/0.14.2/COPYING.txt": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
     "resources/refind/0.14.2/CREDITS.txt": "c39813ab885e9fe45a1ca09dd6d447b99b5e3885ba38ed4e3317f514e88076ed",
     "resources/refind/0.14.2/LICENSE.txt": "cebbc60079d3e79a1d94bf7c63482ca27d8ce58739d28c5e209bbd378337729b",
